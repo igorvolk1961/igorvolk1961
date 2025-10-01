@@ -36,6 +36,7 @@
 
 - **[SemanticParserMES](https://github.com/igorvolk1961/SemanticParserMES)** - семантический парсинг сводок МЧС
 - **[Przhevalcky](https://github.com/igorvolk1961/przhevalsky)** - распознавание кроков на топографических картах
+- **[art_beauty_ai_agent]https://github.com/igorvolk1961/art_beauty_ai_agent - АI-агент Салона Красоты
 
 ## 💡 Примечание
 
