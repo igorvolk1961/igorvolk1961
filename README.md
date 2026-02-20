@@ -22,7 +22,7 @@
 | **[ЭРГО](https://github.com/igorvolk1961/ergo)** | 1994 | Приложение для экспресс-расчета характеристик электронной эмиссии из многокомпонентных материалов |
 | **[СПРУТ](https://github.com/igorvolk1961/sprut)** | 2008 | Система Противодействия Угрозе Терроризма - оценка уязвимости систем физической защиты |
 | **[Спрутик](https://github.com/igorvolk1961/sprutik)** | 2008 | Упрощенная модификация приложения СПРУТ |
-| **[AutoDM](https://github.com/igorvolk1961/sprut/AutoDMPas/README.md)** | 2019 | Фреймворк экспресс-моделирования сложных технических систем |
+| **[AutoDM](https://github.com/igorvolk1961/sprut/blob/main/AutoDMPas/README.md)** | 2019 | Фреймворк экспресс-моделирования сложных технических систем |
 | **[SXFservice](https://github.com/igorvolk1961/SXFservice)** | 2021 | Сервис доступа к картам в формате SXF по протоколу WMS |
 | **[RSCservice](https://github.com/igorvolk1961/RSCservice)** | 2021 | Сервис преобразования электронных условных знаков в SVG |
 
