@@ -30,7 +30,7 @@
 
 - **[Интеграция ИИ-Помощника c КФО](https://github.com/igorvolk1961/kfo_plus_ai)** - Интеграция ИИ-Помощника должностного лица c корпоративным файловым обменником
 - **[Подьячий](https://github.com/igorvolk1961/scrivener)** - ИИ-Помощник должностного лица по работе с документами
-- **[SmartChanker](https://github.com/igorvolk1961/smart_chunker)** - Чанкер документов с иерархической нумерацией разделов и сложными таблицами
+- **[SmartChunker](https://github.com/igorvolk1961/smart_chunker)** - Чанкер документов с иерархической нумерацией разделов и сложными таблицами
 - **[SgrAgents](https://github.com/igorvolk1961/sgr-agents)** - Форк фреймворка для создания AI-агентов sgr-agent-core
 - **[SemanticAnalisys](https://github.com/igorvolk1961/SemanticAnalisys)** - сервис семантического анализа текстовых документов
 
