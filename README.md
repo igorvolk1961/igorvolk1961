@@ -1,6 +1,6 @@
 # 👋 Добро пожаловать в мое портфолио!
 
-Я - начинающий промпт-инженер и программист-самоучка с 40-летним опытом. Мой путь в программировании начался с Алгола, Basic, Assembler, Fortran и продолжился через Turbo Pascal, Delphi, C++(Qt), JavaScript(ES5), Java, SQL, XML и многие другие технологии.
+Я - разработчик ПО с 40-летним опытом. Мой путь в программировании начался с Алгола, Basic, Assembler, Fortran и продолжился через Turbo Pascal, Delphi, C++(Qt), JavaScript(ES5), Java, SQL, XML и многие другие технологии.
 
 В январе 2024 года я открыл для себя Python и мир NLP, и понял, что это именно то, что я искал всю свою сознательную жизнь.
 
@@ -30,7 +30,7 @@
 
 - **[Интеграция ИИ-Помощника c КФО](https://github.com/igorvolk1961/kfo_plus_ai)** - Интеграция ИИ-Помощника должностного лица c корпоративным файловым обменником
 - **[Подьячий](https://github.com/igorvolk1961/scrivener)** - ИИ-Помощник должностного лица по работе с документами
-- **[SmartChanker](https://github.com/igorvolk1961/smart_chanker)** - Чанкер документов с иерархической нумерацией разделов и сложными таблицами
+- **[SmartChanker](https://github.com/igorvolk1961/smart_chunker)** - Чанкер документов с иерархической нумерацией разделов и сложными таблицами
 - **[SgrAgents](https://github.com/igorvolk1961/sgr-agents)** - Форк фреймворка для создания AI-агентов sgr-agent-core
 - **[SemanticAnalisys](https://github.com/igorvolk1961/SemanticAnalisys)** - сервис семантического анализа текстовых документов
 
